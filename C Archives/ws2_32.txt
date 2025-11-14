@@ -1,9 +1,0 @@
-Compiler options
-Linker
-
-ws2_32
-
-
-Lembrando que para instalar a biblioteca ws2_32.lib é necessário linkar ela no Compilador
-
-Normalmente isso é feito em opções do compilador (compiler options) -> opções do ligador (linker options) e adicionando ws2_32
